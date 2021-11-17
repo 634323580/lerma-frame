@@ -1,6 +1,6 @@
 {
   "name": "@lerna-frame/core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "lerna frame core",
   "author": "ken <634323580@qq.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@lerna-frame/utils": "^0.0.1"
+    "@lerna-frame/utils": "^0.0.2"
   },
   "gitHead": "fa6223adb64f0e48c2b9d6186fb5e6941ba7db41"
 }
