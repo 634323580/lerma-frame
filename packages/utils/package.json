@@ -1,6 +1,6 @@
 {
   "name": "@lerna-frame/utils",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "lerna frame utils",
   "author": "ken <634323580@qq.com>",
   "homepage": "",
@@ -15,6 +15,5 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  },
-  "dependencies": {}
+  }
 }
