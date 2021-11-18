@@ -8,7 +8,6 @@ interface mouseReturn {
   y: Ref<number>,
 }
 
-
 export default function useMouse(): mouseReturn {
   const x = ref<number>(0)
   const y = ref<number>(0)

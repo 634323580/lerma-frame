@@ -11,7 +11,7 @@
 		"test": "__tests__"
 	},
 	"scripts": {
-		"dev": "rollup -c rollup.config.js",
+		"dev": "rollup -wc rollup.config.js",
 		"test": "echo \"Error: run tests from root\" && exit 1"
 	},
 	"files": [
