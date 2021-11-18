@@ -1,6 +1,6 @@
 {
   "name": "@lerna-frame/vue3",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "> TODO: description",
   "author": "ken <634323580@qq.com>",
   "homepage": "https://github.com/634323580/lerma-frame#readme",
@@ -30,7 +30,7 @@
     "url": "https://github.com/634323580/lerma-frame/issues"
   },
   "dependencies": {
-    "@lerna-frame/core": "^0.0.4"
+    "@lerna-frame/core": "^0.0.5"
   },
   "devDependencies": {
     "@babel/core": "^7.16.0",
@@ -45,13 +45,13 @@
     "sass": "^1.43.4",
     "vue": "^3.2.22"
   },
-	"peerDependencies": {
-		"@vue/composition-api": "^1.0.0-rc.1",
-		"vue": "^2.0.0 || >=3.0.0"
-	},
-	"peerDependenciesMeta": {
-		"@vue/composition-api": {
-			"optional": true
-		}
-	}
+  "peerDependencies": {
+    "@vue/composition-api": "^1.0.0-rc.1",
+    "vue": "^2.0.0 || >=3.0.0"
+  },
+  "peerDependenciesMeta": {
+    "@vue/composition-api": {
+      "optional": true
+    }
+  }
 }
