@@ -15,7 +15,8 @@
 		"test": "echo \"Error: run tests from root\" && exit 1"
 	},
 	"files": [
-		"lib"
+		"lib",
+		"dist"
 	],
 	"gitHead": "5ecef2b32f1616e21e0626c3934ca1dc1c421f4b",
 	"publishConfig": {
